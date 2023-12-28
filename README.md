@@ -19,7 +19,7 @@ In this project, we are diving into the world of credit card approvals. The Cred
 ## Fit a Logistic Regression Model to the Train Set:
 - Time to choose a model! Fit a logistic regression model to the training set. Logistic regression is a common choice for binary classification problems like credit card approval.
 
-## Making Predictions and Evaluating Performance:
+## Make Predictions and Evaluate Performance:
 - Once your model is trained, use it to make predictions on the test set. Evaluate its performance using appropriate metrics to ensure it's making accurate predictions.
 
 ## Grid Search to make the Model Perform Better:
